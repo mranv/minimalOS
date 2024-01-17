@@ -7,7 +7,9 @@ This guide provides detailed steps to build a custom Linux kernel and Busybox to
 Ensure that the required dependencies are installed on your system. Run the following command to install necessary packages:
 
 ```bash
-sudo apt-get install bzip2 git vim make gcc libncurses-dev flex bison bc cpio libelf-dev libssl-dev syslinux dosfstools nano git
+debian: sudo apt-get install bzip2 git vim make gcc libncurses-dev flex bison bc cpio libelf-dev libssl-dev syslinux dosfstools nano git
+fedora: sudo dnf install bzip2 git vim make gcc ncurses-devel flex bison bc cpio elfutils-libelf-devel openssl-devel syslinux dosfstools nano git
+
 ```
 
 ## Step 2: Clone the Linux Kernel Repository
