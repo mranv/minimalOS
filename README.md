@@ -1,4 +1,10 @@
-# Custom Linux Kernel and Busybox Setup
+<h1 align="center">
+<br>
+<img src=img/linux.png height="400" border="2px solid #555">
+<br>
+<strong>Custom Linux Kernel and Busybox Setup</strong>
+</h1>
+
 
 This guide provides detailed steps to build a custom Linux kernel and Busybox to create a minimalistic and customizable Linux operating system. Follow the steps below to set up your custom environment.
 
